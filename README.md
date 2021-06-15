@@ -18,8 +18,8 @@ Controle financeiro
 
     
 <h1> controle financeiro </h1>
-<! - botão menu -
-<         nave          class = "menu suspeito
+<! - botão menu 
+<         nave          class = "menu"
 
 <div class="menu-icon">.
 <div></div>
